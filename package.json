@@ -1,0 +1,25 @@
+{
+  "name": "lehrerbuero-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjnalta/lehrerbuero-crawler.git"
+  },
+  "author": "Philipp Minges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjnalta/lehrerbuero-crawler/issues"
+  },
+  "homepage": "https://github.com/fjnalta/lehrerbuero-crawler#readme",
+  "dependencies": {
+    "apify": "^2.1.0",
+    "got": "^11.8.2",
+    "jsdom": "^18.0.0",
+    "puppeteer": "^10.4.0"
+  }
+}
