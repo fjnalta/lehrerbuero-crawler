@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/fjnalta/lehrerbuero-crawler#readme",
   "dependencies": {
-    "apify": "^2.1.0",
     "got": "^11.8.2",
-    "jsdom": "^18.0.0",
-    "puppeteer": "^10.4.0"
+    "promisify": "^0.0.3",
+    "puppeteer": "^10.4.0",
+    "request": "^2.88.2",
+    "tough-cookie": "^4.0.0"
   }
 }
