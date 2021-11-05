@@ -20,7 +20,6 @@
     "got": "^11.8.2",
     "promisify": "^0.0.3",
     "puppeteer": "^10.4.0",
-    "request": "^2.88.2",
     "tough-cookie": "^4.0.0"
   }
 }
